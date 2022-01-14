@@ -1,1 +1,18 @@
-### Hello there, I am Amaan!
+### Hi there 👋, Hello there, my name is Amaan!
+I am a third year student at McMaster University. 
+In my spare time you can find me working on side projects as little as making my GitHub profile all the way up to designing simple games (https://github.com/khana251/2048-game) and tools that I actually use day to day (https://github.com/khana251/AutoFileSorter). 
+Other than that I have recently been learning Haskell which is very different from any other programming language that I have learnt before.
+
+Skills: PYTHON / JAVA / LINUX / C++ / HASKELL / SQL / HTML / CSS
+
+- 🌱 I’m currently learning haskell 
+- 🤔 I’m looking for help with haskell 
+- 📫 How to reach me: amaankhan1970@gmail.com 
+- 😄 Pronouns: he/him/his 
+- ⚡ Fun fact: I can fluently speak 3 languages 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khana251)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amaan-a-khan//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khana251)](https://github.com/anuraghazra/github-readme-stats)
+
