@@ -12,7 +12,4 @@ Skills: PYTHON / JAVA / LINUX / C++ / HASKELL / SQL / HTML / CSS
 - ⚡ Fun fact: I can fluently speak 3 languages 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khana251)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amaan-a-khan//)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khana251)](https://github.com/anuraghazra/github-readme-stats)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amaan-a-khan//) 
