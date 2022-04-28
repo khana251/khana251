@@ -5,8 +5,6 @@ Other than that I have recently been learning Haskell which is very different fr
 
 Skills: PYTHON / JAVA / LINUX / C++ / HASKELL / SQL / HTML / CSS / LaTeX
 
-- 🌱 I’m currently learning haskell 
-- 🤔 I’m looking for help with haskell 
 - 📫 How to reach me: amaankhan1970@gmail.com 
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: I can fluently speak 3 languages 
