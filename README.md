@@ -1,9 +1,7 @@
 ### Hello there, my name is Amaan! 👋
-I am a recent graduate with a B.Sc in Computer Science from McMaster University. 
-In my spare time you can find me working on side projects as little as working on my GitHub profile all the way up to designing simple games (https://github.com/khana251/2048-game) and tools that I actually use day to day (https://github.com/khana251/AutoFileSorter). 
-Other than that I have recently been learning Haskell which is very different from any other programming language that I have learnt before.
+I am a Computer Science graduate from McMaster University, excited to showcase my passion for coding. Whether it's enhancing my GitHub profile or developing simple games like the 2048 game (https://github.com/khana251/2048-game) and practical tools like AutoFileSorter (https://github.com/khana251/AutoFileSorter), I always find myself engaged in side projects or hobbies during my free time.
 
-Skills: PYTHON / JAVA / LINUX / C++ / HASKELL / SQL / HTML / CSS / LaTeX
+Here are some of my skills: PYTHON / JavaScript / HTML / CSS / JAVA / LINUX / C++ / HASKELL / SQL / LaTeX
 
 - 📫 How to reach me: amaankhan1970@gmail.com 
 - 😄 Pronouns: he/him/his 
