@@ -1,6 +1,6 @@
 ### Hello there, my name is Amaan! 👋
 
--  How to reach me: amaankhan1970@gmail.com 
+-  How to reach me: amaankhan.hello@gmail.com 
 -  Pronouns: he/him/his 
 - Fun fact: I can fluently speak 3 languages
 
